@@ -1,9 +1,7 @@
+<img width="282" alt="Flutter-removebg-preview" src="https://github.com/JoaoHenriqu3/teste/assets/109990041/f6da8422-7855-4d52-9476-f3b1fb06c56d">
+
+
 ### Hi there 👋
-
-<!--
-**JoaoHenriqu3/JoaoHenriqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
