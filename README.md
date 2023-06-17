@@ -11,8 +11,7 @@
 </div>
 
 ## 📩 Contact
-<a href="joaohenriquerld@gmail.com" alt="Gmail">
-   <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" 
+
 <div style="display: inline_block"><br>
      <a href="https://www.linkedin.com/in/joão-henrique-roldão" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
