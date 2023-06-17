@@ -1,7 +1,3 @@
-<img width="282" alt="Flutter-removebg-preview" src="https://github.com/JoaoHenriqu3/teste/assets/109990041/f6da8422-7855-4d52-9476-f3b1fb06c56d">
-</div>
-
-
 ## 🚀 Skills
 <div style="display: inline_block"><br>
 
