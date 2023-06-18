@@ -11,11 +11,10 @@
 
 <div>
     <a href="https://www.linkedin.com/in/joão-henrique-roldão" target="_blank">
-       <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    
-
-<div>
+        <img style="display: inline-block;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
     <a href="mailto:joaohenriquerld@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img style="display: inline-block;" src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
+
