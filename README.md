@@ -1,6 +1,6 @@
 # Olá, eu sou o João Henrique! 👋
-- Estou cursando Ciência da Computação, entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
-- Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala.
+- Estou cursando Ciência da Computação, entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter
+- Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala
   
 ## Habilidades
 - Desenvolvimento de aplicativos móveis multiplataforma usando Flutter e Dart
