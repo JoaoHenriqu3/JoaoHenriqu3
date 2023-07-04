@@ -1,7 +1,7 @@
 - 🔭  Entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
 - 🌱  Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala.
 - 🧠   Habilidades: Desenvolvimento de aplicativos móveis multiplataforma usando Flutter e Dart.
-                   UI/UX design para criar interfaces atraentes e intuitivas.
+    UI/UX design para criar interfaces atraentes e intuitivas.
                    Integração com APIs e serviços web.
                    Gerenciamento de estado com BLoC, Provider, MobX, entre outros.
                    Testes automatizados usando testes unitários e integração contínua.
