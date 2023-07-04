@@ -1,4 +1,4 @@
-<!--#Hi, my name is João Henrique!
+#Hi, my name is João Henrique!
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭  Entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
 - 🌱 Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala.
