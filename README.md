@@ -27,7 +27,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 ## Contatos:
 
  
-
 <div>
 <a href = "mailto:joaohenriquerld@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-henrique-roldão" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -35,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 
  
 
-##
+
 
  
 
@@ -47,5 +46,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstu
 
  
 
-##
+
 
