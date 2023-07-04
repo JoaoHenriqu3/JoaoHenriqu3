@@ -1,11 +1,14 @@
-<!--# Olá, me chamo Lucas Paixão ! 
+<!--#Hi, my name is João Henrique!
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou trabalhando em TimeShareSoluções.
-- 🌱 Atualmente estou me desenvolvendo em TypeScript.
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com SpiderVerse-Angular.
-- 💬 Pergunte-me sobre ...
-- ⚡ Curiosidade: ...-->
+- 🔭  Entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
+- 🌱 Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala.
+- 🧠 Habilidades: Desenvolvimento de aplicativos móveis multiplataforma usando Flutter e Dart.
+                   UI/UX design para criar interfaces atraentes e intuitivas.
+                   Integração com APIs e serviços web.
+                   Gerenciamento de estado com BLoC, Provider, MobX, entre outros.
+                   Testes automatizados usando testes unitários e integração contínua.
+                   Publicação de aplicativos na Google Play Store e na Apple App Store.
+
 
  
 
