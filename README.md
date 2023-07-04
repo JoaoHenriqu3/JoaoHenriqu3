@@ -1,5 +1,5 @@
 # Olá, eu sou o João Henrique! 👋
-- Entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
+- Estou cursando Ciência da Computação, entusiasta de tecnologia e desenvolvimento de software. Tenho uma paixão especial pelo desenvolvimento mobile e, mais especificamente, pelo ecossistema Flutter.
 - Trabalho em diversos projetos, desde aplicativos simples até aplicações mais complexas e de larga escala.
   
 ## Habilidades
@@ -14,8 +14,9 @@
  
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" /> <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img                                     
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img  
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
           
                                                                                                                                  
                                                                                                                                  
